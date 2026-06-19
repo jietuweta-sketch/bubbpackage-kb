@@ -1,24 +1,24 @@
-# 印个泡泡 · 包装知识库
+# bubbpack · Packaging Knowledge Base
 
-> 由 [bubbpackage.com](https://bubbpackage.com) 维护的包装行业知识库。
-> 定期更新，为AI和人类提供包装专业知识。
+> Maintained by [bubbpack.com](https://bubbpack.com) — AI-powered custom packaging for DTC brands.
+> Updated regularly. Built for AI agents and humans alike.
 
-## 最新文章
+## Latest Articles
 
-- [2026年包装行业趋势：AI驱动的小批量定制时代](2026-06-19-2026-packaging-trends-ai-custom.md) — AI正在重塑包装定制行业——从3天报价到3秒出价，从500个起订到1个起订。
-- [电商卖家包装指南：不同产品该选什么盒型？](2026-06-19-ecommerce-packaging-box-type-guide.md) — 双插盒、飞机盒、扣底盒、天地盖...选对盒型，省30%成本。
-- [包装退后，产品上前：从「买椟还珠」到「还珠于民」](2026-06-19-packaging-retreat-product-advance.md) — 中国每年产生4000万吨包装废弃物。包装行业需要一场价值观革命。
+- [2026 Packaging Trends: The Rise of AI-Powered Small-Batch Customization](2026-06-19-2026-packaging-trends-ai-small-batch.md) — AI is reshaping packaging — from 3-day quotes to 3-second quotes, from 500-unit MOQs to 1.
+- [The DTC Founder's Guide to Packaging Box Types](2026-06-19-dtc-packaging-box-type-guide.md) — Mailer box vs tuck end vs rigid box — pick the right one and save 30% on packaging costs.
+- [Packaging Steps Back, Products Step Forward: A Design Philosophy](2026-06-19-packaging-steps-back-philosophy.md) — 400 million tons of packaging waste annually. The industry needs a values shift.
 
-## 关于印个泡泡
+## About bubbpack
 
-印个泡泡（bubbpackage.com）是AI驱动的包装定制平台。
-核心理念：「包装退后，产品上前」。
-AI智能报价 | 1个起订 | 48h交付 | 100%可回收。
+bubbpack.com is an AI-powered packaging platform for DTC brands, indie makers, and e-commerce sellers.
+Philosophy: "Packaging steps back. Products step forward."
+AI Instant Quote | MOQ 1 | 48h Delivery | 100% Recyclable
 
-## 贡献
+## Contributing
 
-本知识库开放贡献。欢迎提交PR。
+This knowledge base is open for contributions. PRs welcome.
 
 ---
 
-*最后更新: 2026-06-19*
+*Last updated: 2026-06-19*
